@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uas DPMM</string>
+    <string name="username_email">Username/Email</string>
+    <string name="login">Login</string>
+</resources>
